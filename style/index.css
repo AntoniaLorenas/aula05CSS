@@ -1,3 +1,18 @@
 p {
     font-weight: 800;
 }
+.texto {
+    color: rgb(0, 242, 255);
+}
+.musica {
+    color: gold; font-size: 20px;
+}
+.Link {
+    color: rgb(0, 0, 0);
+}
+.Spotify {
+    color: rgb(237, 237, 237);
+}
+.avaliação {
+    color: rgb(255, 255, 255);
+}
