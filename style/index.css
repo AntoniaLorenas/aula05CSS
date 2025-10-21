@@ -1,11 +1,11 @@
-p {
+.p {
     font-weight: 800;
 }
 .texto {
     color: rgb(0, 242, 255);
 }
 .musica {
-    color: gold; font-size: 20px;
+    color: #17d76a;
 }
 .Link {
     color: rgb(0, 0, 0);
@@ -13,6 +13,9 @@ p {
 .Spotify {
     color: rgb(237, 237, 237);
 }
-.avaliação {
+.avaliar {
     color: rgb(255, 255, 255);
+}
+.numeros {
+    color: rgb(236, 199, 222);
 }
